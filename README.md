@@ -21,6 +21,7 @@ Write a query to return the IDs of the Facebook pages that have zero likes. The 
 | 20701   | Tips for Data Analysts |
 
 ## page_likes Table:
+
 | Column Name | Type     |
 |-------------|----------|
 | user_id     | integer  |
@@ -28,6 +29,7 @@ Write a query to return the IDs of the Facebook pages that have zero likes. The 
 | liked_date  | datetime |
 
 ## page_likes Example Input:
+
 | user_id | page_id | liked_date           |
 |---------|---------|----------------------|
 | 111     | 20001   | 04/08/2022 00:00:00 |
