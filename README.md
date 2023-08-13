@@ -4,10 +4,12 @@ Assume you're given two tables containing data about Facebook Pages and their re
 Write a query to return the IDs of the Facebook pages that have zero likes. The output should be sorted in ascending order based on the page IDs.
 
 pages Table:
-Column Name	Type
-page_id	integer
-page_name	varchar
-pages Example Input:
+Column Name	|Type
+page_id	| integer
+page_name|varchar
+ <br>
+pages
+Example Input:
 page_id	page_name
 20001	SQL Solutions
 20045	Brain Exercises
